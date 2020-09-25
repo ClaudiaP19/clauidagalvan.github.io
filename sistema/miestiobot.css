@@ -1,0 +1,21 @@
+
+.borde2{
+    background-color: pink;
+    align-items: center;
+    align-content: center;
+}
+.borde1{
+    align-items: center;
+    background-color: #ffeaa7;
+    align-content: center;
+}
+.error{
+    color: red;
+}
+.img1{
+    position: absolute;
+    top: 470px;
+}
+.boys{
+    background-color: greenyellow;
+}

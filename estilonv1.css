@@ -1,0 +1,18 @@
+.borde1{
+    align-items: center;
+    background-color:#ffeaa7;
+    align-content: center;
+}
+.borde2{
+    align-items: center;
+    align-content: center;
+    background-color: pink;
+    height: 50px;
+    
+}
+.margin10px{
+    margin-right: 20px;
+}
+.cuerpo{
+    background-color:#81ecec ;
+}
